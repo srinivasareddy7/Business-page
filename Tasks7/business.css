@@ -1,0 +1,135 @@
+.A{
+    display: flex;
+    column-gap: 300px;
+    margin-left: 50px;
+}
+.A2{
+    display: flex;
+    column-gap: 50px;
+    color: gainsboro;
+}
+.A3 button{
+    margin-top: 30px;
+    width: 170px;
+    margin-left: -70px;
+    height: 40px;
+    color: blueviolet;
+    background-color: wheat;
+}
+.B{
+    background-image: url(BBgi1.avif);
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+.B1{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 140px;
+    color: whitesmoke;
+    }
+    .B1 button{
+        height: 60px;
+        width: 200px;
+        color:wheat;
+    background-color: black;
+    }
+    .C{
+        margin-top: 100px;
+        text-align: center;
+    }
+    .C p{
+        font-size: 40px;
+    }
+    .D{
+        margin-top: 150px;
+        margin-left: 100px;
+        font-size: 20px;
+        color: gainsboro;
+    }
+    .D button{
+        height: 45px;
+        width: 150px;
+        background-color: black;
+        color: whitesmoke;
+
+    }
+    .E{
+        height: 20px;
+        margin-left: 550px;
+        margin-top: -380px;
+    }
+    .E img{
+        height: 450px;
+        margin-left: -50px;
+        width:700px ;
+    }
+    .F{
+        display: flex;
+    }
+    .F1{
+        margin-top: 550px;
+        margin-left: 100px;
+        color: gainsboro;
+        font-size: 18px;
+    }
+    .F1 button{
+        height: 45px;
+        width: 150px;
+        background-color: black;
+        color: whitesmoke;
+    }
+
+    .F2{
+        margin-top: 570px;
+
+    }
+    .F2 img{
+             height:220px ;
+              width: 350px;
+              margin-left: 200px;
+              margin-left:120px;
+    }
+    .G{
+        text-align: center;
+        margin-top: 100px;
+    }
+    .H{
+        display: flex;
+        margin-left: 50px;
+    }
+    .H P{
+        font-size: 20px;
+        /* color: gainsboro; */
+        color: wheat;
+
+    }
+    .H1{
+        margin-left: 50px;
+    }
+    .H2{
+        margin-left: 100px;
+    }
+    .I{
+        margin-top: 100px;
+        height: 400px;
+        width: 95%;
+        background-color: whitesmoke;
+        text-align: center;
+        padding-top: 100px;
+        margin-left: 50px;
+        font-size: 22px;
+    }
+    .I button{
+            height: 50px;
+            width: 180px;
+            background-color: black;
+            color: whitesmoke;
+    }
+    .J{
+        display: flex;
+        margin-top: 50px;
+        margin-left: 500px;
+        column-gap: 10px;
+        color: wheat;
+    }

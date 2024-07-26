@@ -1,0 +1,64 @@
+.A{
+    height: 300px;
+    width: 95%;
+    background-color: black;
+    margin-left: 20px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 40px;
+    
+}
+.B{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+}
+.C{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: lightblue;
+    
+}
+.D{
+    margin-top: 100px;
+    text-align: center;
+}
+.E{
+    display: flex;
+    margin-left: 100px;
+    column-gap: 100px;
+    font-size: 20px;
+}
+.F{
+    display: flex;
+    margin-left: 100px;
+    column-gap: 100px;
+    font-size: 20px;
+}
+
+.I{
+    margin-top: 100px;
+    height: 400px;
+    width: 95%;
+    background-color: wheat;
+    text-align: center;
+    padding-top: 100px;
+    margin-left: 50px;
+    font-size: 22px;
+    color: whitesmoke;
+}
+.I button{
+        height: 50px;
+        width: 180px;
+        background-color: black;
+        color: whitesmoke;
+}
+.J{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 500px;
+    column-gap: 10px;
+    color: wheat;
+}
