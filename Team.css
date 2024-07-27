@@ -1,0 +1,102 @@
+.A{
+    height: 300px;
+    width: 95%;
+    background-color: black;
+    margin-left: 20px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 40px;
+}
+.B{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+.C{
+    margin-top: 100px;
+    margin-left: 100px;
+    display: flex;
+    column-gap: 30px;
+}
+.C1{
+    height:400px;
+    width: 350px;
+    background-color:lightblue;
+   
+
+}
+.C2{
+    height:400px;
+    width: 350px;
+    background-color:lightblue;
+}
+
+.C3{
+    height:400px;
+    width: 350px;
+    background-color:lightblue;
+}
+.C h1{
+    margin-top: 450px;
+    text-align: center;
+}
+.C h4{
+    text-align: center;
+}
+
+.D{
+    margin-top: 200px;
+    margin-left: 100px;
+    display: flex;
+    column-gap: 30px;
+}
+.D1{
+    height:400px;
+    width: 350px;
+    background-color:lightblue;
+}
+.D2{
+    height:400px;
+    width: 350px;
+    background-color:lightblue;
+}
+
+.D3{
+    height:400px;
+    width: 350px;
+    background-color:lightblue;
+}
+.D h1{
+    margin-top: 450px;
+    text-align: center;
+}
+.D h4{
+    text-align: center;
+}
+
+.I{
+    margin-top: 200px;
+    height: 400px;
+    width: 95%;
+    background-color:greenyellow;
+    text-align: center;
+    padding-top: 100px;
+    margin-left: 50px;
+    font-size: 22px;
+    color: whitesmoke;
+}
+.I button{
+        height: 50px;
+        width: 180px;
+        background-color: black;
+        color: whitesmoke;
+}
+.J{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 500px;
+    column-gap: 10px;
+    color: wheat;
+}
+

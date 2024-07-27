@@ -1,0 +1,15 @@
+.A{
+    height: 300px;
+    width: 95%;
+    background-color: black;
+    margin-left: 20px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 40px;
+}
+.B{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 30px;
+}
