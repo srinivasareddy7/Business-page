@@ -11,5 +11,82 @@
 .B{
     margin-top: 100px;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
 }
+ .C img{
+        width:85%;
+        height: 500px;
+        margin-left: 100px;
+        margin-top: 50px;
+}
+.D{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+.D img{
+    width:85%;
+    height: 600px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.E{
+    margin-left: 300px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.F img{
+    width:85%;
+    height: 600px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.G{
+    margin-left: 300px;
+}
+.H img{
+    width:85%;
+    height: 600px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.I{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.J img{
+    width:85%;
+    height: 600px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.K{
+    margin-left: 300px;
+    margin-top: 50px;
+
+}
+.L{
+    margin-top: 100px;
+    height: 400px;
+    width: 95%;
+    background-color:burlywood;
+    text-align: center;
+    padding-top: 100px;
+    margin-left: 50px;
+    font-size: 22px;
+    color: whitesmoke;
+}
+.L button{
+        height: 50px;
+        width: 180px;
+        background-color: black;
+        color: whitesmoke;
+}
+.M{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 500px;
+    column-gap: 10px;
+    color: wheat;
+}
+
